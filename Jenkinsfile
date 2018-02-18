@@ -1,4 +1,4 @@
-node ('node-2'){
+node ('node-0.4-grovey'){
     
  notify('Started')    
  
